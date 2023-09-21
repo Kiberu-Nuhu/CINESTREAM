@@ -1,0 +1,26 @@
+{
+    "Images":[
+        {
+            "src": "./assets/oldcharms.webp",
+            "alt": "oldies",
+            "class": "rounded-3xl"
+        },
+        {
+            
+            "src": "./assets/block.webp",
+            "alt": "BLOCK",
+            "class": "rounded-3xl"  
+        },
+        {
+            "src": "./assets/scifi.webp",
+            "alt": "SCI-FI",
+            "class": "rounded-3xl"  
+        },
+        {
+            "src": "./assets/nature.webp",
+            "alt": "NATURE",
+            "class": "rounded-3xl" 
+        }
+    ]
+  }
+  
