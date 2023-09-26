@@ -23,7 +23,6 @@ export default function Results({ movies }: ResultsProps) {
           </div>
       ))}
       </div>
-     
     </div>
   );
 }
