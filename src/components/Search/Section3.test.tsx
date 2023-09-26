@@ -17,10 +17,8 @@ test('fetchMovieData function is called when the "Search" button is clicked', as
     fireEvent.change(input, { target: { value: 'Avengers' } });
     fireEvent.click(searchButton);
   
-    // Wait for the fetchMovieData function to complete
     await waitFor(() => {
-      expect(mockAxios.history.get.length).toBe(1); // Ensure Axios was called
-      // Add more assertions as needed
+      expect(mockAxios.history.get.length).toBe(1);
     });
   });
   
