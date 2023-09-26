@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Section2() {
     return (
-        <div className=" bg-slate-800 relative p-20">
+        <div className=" bg-slate-700 relative p-20">
             <div className=" text-white">
                 Welcome
             </div>

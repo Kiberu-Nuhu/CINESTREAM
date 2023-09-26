@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Section7() {
     return (
-       <div className=" grid grid-cols-2 grid-rows-2 bg-slate-800 p-20 gap-5">
+       <div className=" grid grid-cols-2 grid-rows-2 bg-slate-700 p-20 gap-5">
             <div>
                 <div>
                     <img src=" ./assets/oldcharms.webp" alt="oldies" height={700} width={700} className=" rounded-3xl"/>

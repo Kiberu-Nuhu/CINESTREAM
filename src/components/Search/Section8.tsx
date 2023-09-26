@@ -4,7 +4,7 @@ import React from "react";
 export default function Section8() {
     const currentYear = new Date().getFullYear();
     return (
-      <div className="bg-slate-800 ">
+      <div className="bg-slate-700 ">
         <div className="  flex flex-row items-center justify-center gap-4">
             <div>
                 <img src="./assets/twitter.svg" alt="twitter" />  
